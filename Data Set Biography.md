@@ -1,6 +1,6 @@
 # Data Biography
 
-## Student Number: XXXXXXX
+## Student Number: 19035452
 
 ---
 
@@ -51,7 +51,7 @@ Judging from the data content, the whole is complete but some are missing. First
 
 Different data can be combined with each other for analyzing from different perspectives. The following analyzes are mainly from the company perspective.
 
-First of all, the factor analysis of popular listings. By analyzing the characteristics of high-occupancy houses, reviewing situation, and hosts' situation, we can understand the reasons and factors of popularity. Second, it is easy to know the reasons why unpopular houses have not been selected for a long time. Third, predicting the rental situation in London of the next month, such as popular booking times and locations, will help Airbnb adjust its marketing strategy.Finally, when combined with other data, it can analyze the impact on the local economy and government, policies and environment on the occupancy of houses. 
+First of all, the factor analysis of popular listings. By analyzing the characteristics of high-occupancy houses, reviewing situation, and hosts' situation, we can understand the reasons and factors of popularity. Second, it is easy to know the reasons why unpopular houses have not been selected for a long time. Third, predicting the rental situation in London of the next month, such as popular booking times and locations, will help Airbnb adjust its marketing strategy. Finally, when combined with other data, it can analysis  about impact on society, such as economy, housing prices and policies. For example, it can analyze the impact on the local economy and government, policies and environment on the occupancy of houses. 
 
 Please click the link to view specific information: 
 
