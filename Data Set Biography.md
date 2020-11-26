@@ -26,7 +26,7 @@ Using python as source code scrapes data from the Airbnb web-site for London, an
 
 Useful information includes real and reliable data that has been processed and can support some follow-up analysis. I divided these data into eight categories: house(name, description, neighborhood etc.), host(id,location,since etc.),facilities time, book, review, calculated_host and others. After sorting this effective information, we can find the information we need more quickly and accurately for different analyses.
 
-Please click the link to view specific information: 
+Please click the link to view specific information: https://github.com/Audrey-chenxi/i2p--new/blob/main/1.PNG?raw=true
 
 ---
 
@@ -53,7 +53,7 @@ Different data can be combined with each other for analyzing from different pers
 
 First of all, the factor analysis of popular listings. By analyzing the characteristics of high-occupancy houses, reviewing situation, and hosts' situation, we can understand the reasons and factors of popularity. Second, it is easy to know the reasons why unpopular houses have not been selected for a long time. Third, predicting the rental situation in London of the next month, such as popular booking times and locations, will help Airbnb adjust its marketing strategy. Finally, when combined with other data, it can analysis  about impact on society, such as economy, housing prices and policies. For example, it can analyze the impact on the local economy and government, policies and environment on the occupancy of houses. 
 
-Please click the link to view specific information: 
+Please click the link to view specific information: https://github.com/Audrey-chenxi/i2p--new/blob/main/2.PNG?raw=true
 
 ---
 
